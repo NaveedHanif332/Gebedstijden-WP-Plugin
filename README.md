@@ -1,4 +1,4 @@
-# Prayer Times Plugin 
+# Gebedstijden Wordpress Plugin 
 An optimized PHP plugin for WordPress compatible with all themes and plugins, designed for displaying daily prayer times, monthly prayer times, and Islamic dates for any country and city. It is easy to use and configure
 
 ## Installation
